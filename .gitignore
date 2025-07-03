@@ -3,5 +3,5 @@ __pycache__/
 .env
 .vscode/
 out.mp4
-sample.mp4 
-*.mp4
+sample.mp4
+out.mp4
