@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+out.mp4
+sample.mp4 
+*.mp4
