@@ -83,6 +83,16 @@ python add_missing_data.py
 ```bash
 python visualize.py
 ```
+###OR
+
+You can run the code 
+```bash
+python runner.py --run all
+```
+This is used to run all the files in the order.
+But if you want you can use runner.py to run each file individually by using 'detect', 'interpolate' & 'visualise' instead of all.
+
+
 This will generate out.mp4 with bounding boxes and overlaid license plate numbers.
 ## 📁 Project Structure
 ```bash
