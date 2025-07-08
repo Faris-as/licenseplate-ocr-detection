@@ -8,7 +8,7 @@ This project performs automatic vehicle and number plate detection using YOLOv8,
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/fd286071-7ad9-4931-a536-28d2a16dc3fd
+[https://github.com/user-attachments/assets/fd286071-7ad9-4931-a536-28d2a16dc3fd](https://github.com/user-attachments/assets/313e90f2-d744-4404-b459-ba58ed6a6ab4)
 
 ---
 
