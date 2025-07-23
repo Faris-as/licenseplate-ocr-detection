@@ -6,8 +6,10 @@ This project performs automatic vehicle and number plate detection using YOLOv8,
 
 ---
 
-## 🎬 Demo
+## 🕸️ Webpage
+![preview](https://github.com/Faris-as/licenseplate-ocr-detection/blob/main/demo/top.png)
 
+## 🎬 Output
 [https://github.com/user-attachments/assets/fd286071-7ad9-4931-a536-28d2a16dc3fd](https://github.com/user-attachments/assets/313e90f2-d744-4404-b459-ba58ed6a6ab4)
 
 ---
@@ -94,7 +96,21 @@ python runner.py --run all
 This is used to run all the files in the order.
 But if you want you can use runner.py to run each file individually by using 'detect', 'interpolate' & 'visualise' instead of all.
 
+OR 
+Best Way
+Just run the page code
+```bash
+streamlit run app.py
+```
+🗃️ This will open a site with a input where you can upload the video directly.
 
+
+![preview](https://github.com/Faris-as/licenseplate-ocr-detection/blob/main/demo/top.png)
+
+The system will do a running symbol like this 🏃 to understand that this is working.
+After processing one can download the video as you can see.
+
+![view](https://github.com/Faris-as/licenseplate-ocr-detection/blob/main/demo/bottom.png)
 
 ## 📁 Project Structure
 ```bash
