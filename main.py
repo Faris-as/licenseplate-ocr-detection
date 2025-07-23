@@ -53,7 +53,7 @@ while ret:
             if car_id != -1:
 
                 # crop license plate
-                license_plate_crop = frame[int(y1):int(y2), int(x1): int(x2), :]
+                license_plate_crop = frame[int(y1):int(y2), int(x1):int(x2), :]
 
                 # process license plate
                 license_plate_crop_gray = cv2.cvtColor(license_plate_crop, cv2.COLOR_BGR2GRAY)

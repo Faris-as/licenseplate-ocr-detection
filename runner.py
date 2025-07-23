@@ -1,6 +1,5 @@
 import os
 import argparse
-import subprocess
 
 def run_main():
     print("🔄 Running main detection script...")
